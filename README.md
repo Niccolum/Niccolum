@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" style="pointer-events:none"/>
-
+  <a href="#"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" style="pointer-events:none;cursor:default;"/></a>
+  
   <div id="badges">
     <a href="https://habr.com/ru/users/Niccolum/">
       <img src="https://user-images.githubusercontent.com/32839735/151925904-a18a7d9a-4b5a-47ff-883b-b02699c358cd.png" width=20 height=20 alt="Habr Badge"/>
@@ -27,3 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=Niccolum&style=flat&color=blue" alt=""/>
   
 </div>
+
+<h1>
+  <a href="#"><img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100px" height="100px" /></a>
+</h1>
