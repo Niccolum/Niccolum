@@ -30,7 +30,6 @@
   <div id="comic-badges">
     <img src="https://img.shields.io/badge/birth%20date-mar.%201993-important" />
     <img src="https://img.shields.io/badge/code%20quality-as%20good%20as%20possible-success" />
-    <img src="https://img.shields.io/badge/vulnerabilities-low-success" />
   </div>
   <img src="https://komarev.com/ghpvc/?username=Niccolum&style=flat&color=blue" alt=""/>
   
