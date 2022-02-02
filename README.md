@@ -29,5 +29,11 @@
 </div>
 
 <h1>
-  <a href="#"><img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100px" height="100px" /></a>
+  <a href="#"><img src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=50 height=50 /></a>
+  <a href="#"><img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width=50 height=50 /></a>
+  <a href="#"><img src="https://media3.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width=100 height=50 /></a>
+  <a href="#"><img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width=50 height=50 /></a>
+  <a href="#"><img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width=50 height=50 /></a>
+  <a href="#"><img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width=50 height=50 /></a>
+  <a href="#"><img src="https://media3.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width=50 height=50 /></a>
 </h1>
