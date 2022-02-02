@@ -60,13 +60,11 @@ hobbies:
   
 I am a Python Developer with 5+ years of experience in developing enterprise applications and open-source software.
 
-## ✏My story
-  
 - [New Security Technologies](https://www.newinfosec.ru/) - I helped with the support and creation of realtime traffic audit applications for private and state corporations, 1,5+ years
 
 - [EPAM](https://www.epam-group.ru/) - I worked with 3 project last 3+ year, where I was analytic, mentor, speaker, tester, devops, team lead and, of course, python developer.
   
-  I also contribute to a lot of community open-source projects and libraries. Some of the communities includes [Elastic APM](https://github.com/elastic/apm-agent-python), [aiohttp apispec](https://github.com/maximdanilchenko/aiohttp-apispec), [FastAPI](https://github.com/tiangolo/fastapi), [Starlette](https://github.com/encode/starlette), [python-dotenv](https://github.com/theskumar/python-dotenv), etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
+I also contribute to a lot of community open-source projects and libraries. Some of the communities includes [Elastic APM](https://github.com/elastic/apm-agent-python), [aiohttp apispec](https://github.com/maximdanilchenko/aiohttp-apispec), [FastAPI](https://github.com/tiangolo/fastapi), [Starlette](https://github.com/encode/starlette), [python-dotenv](https://github.com/theskumar/python-dotenv), etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
   
   <img src="https://github-readme-stats.vercel.app/api?username=Niccolum&show_icons=true&count_private=true" alt="spiderpig86" />
 </details> 
