@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <a href="#"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" style="pointer-events:none;cursor:default;"/></a>
+  <div><a href="#"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" style="pointer-events:none;cursor:default;"/></a></div>
+  <div><a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;&center=true&vCenter=true&size=40&color=3F57D2">
+  </a></div>
   
   <div id="badges">
     <a href="https://habr.com/ru/users/Niccolum/">
