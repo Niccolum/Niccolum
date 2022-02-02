@@ -11,8 +11,8 @@
     <a href="https://t.me/Niccolum">
       <img src="https://badges.aleen42.com/src/telegram.svg" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:lastsal@mail.ru">
-      <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width=30 height=20 alt="Mail Badge"/>
+    <a href="mailto:lastsal93@gmail.com">
+      <img src="https://img.shields.io/badge/-lastsal93-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lastsal93@gmail.com" width=80 height=20 alt="Mail Badge"/>
     </a>
     <a href="https://github.com/Niccolum/">
       <img src="https://github.com/aleen42/badges/raw/master/src/github.svg" alt="Github Badge"/>
@@ -24,23 +24,51 @@
       <img src="https://pbs.twimg.com/profile_images/909757546063323137/-RIWgodF_400x400.jpg" width=20 height=20 alt="PYPI Badge"/>
     </a>
   </div>
+  <div id="comic-badges">
+    <img src="https://img.shields.io/badge/birth%20date-mar.%201993-important" />
+    <img src="https://img.shields.io/badge/code%20quality-as%20good%20as%20possible-success" />
+    <img src="https://img.shields.io/badge/vulnerabilities-low-success" />
+  </div>
   <img src="https://komarev.com/ghpvc/?username=Niccolum&style=flat&color=blue" alt=""/>
   
 </div>
 
+```yaml
+name: Nikolai Vidov
+located_in: Zheleznodorozhny, Russia
+from: Moscow, Russia
+job: Python developer
+education:
+  - MAI
+  - RSAU MAA named K.A. Timiryazev
+company: EPAM
+technical_interests: 
+  - Web-development
+  - Architecture
+  - Testing
+  - Mentoring
+hobbies: 
+  - D&D5e
+  - Pet projects
+  - Serials
+  - YouTube :)
+```
+
 <details>
-  <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>✏️&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
   
 I am a Python Developer with 5+ years of experience in developing enterprise applications and open-source software.
 
-## My story
+## ✏My story
   
 - [New Security Technologies](https://www.newinfosec.ru/) - I helped with the support and creation of realtime traffic audit applications for private and state corporations, 1,5+ years
 
 - [EPAM](https://www.epam-group.ru/) - I worked with 3 project last 3+ year, where I was analytic, mentor, speaker, tester, devops, team lead and, of course, python developer.
   
   I also contribute to a lot of community open-source projects and libraries. Some of the communities includes [Elastic APM](https://github.com/elastic/apm-agent-python), [aiohttp apispec](https://github.com/maximdanilchenko/aiohttp-apispec), [FastAPI](https://github.com/tiangolo/fastapi), [Starlette](https://github.com/encode/starlette), [python-dotenv](https://github.com/theskumar/python-dotenv), etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Niccolum&show_icons=true&count_private=true" alt="spiderpig86" />
 </details> 
 
 <details>
