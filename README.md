@@ -87,7 +87,7 @@ I also contribute to a lot of community open-source projects and libraries. Some
   
   ![Niccolum stats](https://github-readme-stats.vercel.app/api/top-langs?username=Niccolum&layout=compact)
   
-  ### 👨‍💻 Programming languages
+  #### 👨‍💻 Programming languages
   
   <a href="#"><img src="https://media1.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width=40 height=40 /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width=40 height=40 /></a>
@@ -96,7 +96,7 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://media3.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" alt="JS" width=40 height=40 /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width=40 height=40/></a> 
   
-  ### 🧰 Frameworks and libraries
+  #### 🧰 Frameworks and libraries
   
   <a href="#"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width=40 height=40/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width=40 height=40/></a>
@@ -104,7 +104,7 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width=40 height=40/></a>
   <a href="#"><img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" alt="Vue" width=40 height=40 /></a>
   
-  ### 🗄️ Databases and cloud hosting
+  #### 🗄️ Databases and cloud hosting
   
   <a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width=40 height=40/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width=40 height=40/></a>
@@ -112,7 +112,7 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width=40 height=40/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width=40 height=40/></a>
   
-  ### 💻 Software and tools
+  #### 💻 Software and tools
   
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=40 height=40/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width=40 height=40/></a>
