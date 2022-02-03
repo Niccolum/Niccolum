@@ -101,7 +101,9 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width=40 height=40/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width=40 height=40/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width=40 height=40/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width=40 height=40 /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width=40 height=40/></a>
+  <a href="#"><img src="https://docs.pytest.org/en/latest/_static/pytest_logo_curves.svg" alt="pytest" width=40 height=40 /></a>
   <a href="#"><img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" alt="Vue" width=40 height=40 /></a>
   
   #### 🗄️ Databases and cloud hosting
