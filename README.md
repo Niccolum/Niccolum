@@ -130,3 +130,7 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width=40 height=40/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width=40 height=40/></a>
 </details> 
+
+#### 💬 Here's some humor for you:
+
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
