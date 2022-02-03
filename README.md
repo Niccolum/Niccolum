@@ -61,7 +61,7 @@ technical_interests:
   - Mentoring
 hobbies: 
   - D&D5e
-  - [My telegram public](https://t.me/yapyb)
+  - My public https://t.me/yapyb
   - Pet projects
   - Serials
   - YouTube :)
