@@ -69,6 +69,8 @@ hobbies:
 <details>
   <summary><b>✏️&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
+
+  <img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif' align="left">
   
 I am a Python Developer with 5+ years of experience in developing enterprise applications and open-source software.
 
