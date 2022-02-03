@@ -48,8 +48,8 @@ located_in: Zheleznodorozhny, Russia
 from: Moscow, Russia
 job: Python developer
 education:
-  - MAI
-  - RSAU MAA named K.A. Timiryazev
+  - MAI, Bachelor, Design and technology of electronics
+  - RSAU MAA named K.A. Timiryazev, Bachelor, Economics and management at the enterprise
 company: EPAM
 languages:
   - Russian (native)
