@@ -27,9 +27,16 @@
       <img src="https://pbs.twimg.com/profile_images/909757546063323137/-RIWgodF_400x400.jpg" width=20 height=20 alt="PYPI Badge"/>
     </a>
   </div>
-  <div id="comic-badges">
-    <img src="https://img.shields.io/badge/birth%20date-mar.%201993-important" />
-    <img src="https://img.shields.io/badge/code%20quality-as%20good%20as%20possible-success" />
+  <div id="dnd-badges">
+    <img src="https://img.shields.io/badge/race-human-lightgrey" />
+    <img src="https://img.shields.io/badge/class-developer-lightgrey" />
+    <img src="https://img.shields.io/badge/level-29-lightgrey" />
+    <img src="https://img.shields.io/badge/Strength-8-red" />
+    <img src="https://img.shields.io/badge/Dexterity-9-red" />
+    <img src="https://img.shields.io/badge/Constitution-10-orange" />
+    <img src="https://img.shields.io/badge/Intelligence-12-blue" />
+    <img src="https://img.shields.io/badge/Wisdom-11-yellow" />
+    <img src="https://img.shields.io/badge/Charisma-12-blue" />
   </div>
   <img src="https://komarev.com/ghpvc/?username=Niccolum&style=flat&color=blue" alt=""/>
   
@@ -44,6 +51,9 @@ education:
   - MAI
   - RSAU MAA named K.A. Timiryazev
 company: EPAM
+languages:
+  - Russian (native)
+  - English (B1)
 technical_interests: 
   - Web-development
   - Architecture
