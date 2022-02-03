@@ -104,6 +104,7 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width=40 height=40 /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width=40 height=40/></a>
   <a href="#"><img src="https://docs.pytest.org/en/latest/_static/pytest_logo_curves.svg" alt="pytest" width=40 height=40 /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width=40 height=40/> </a>
   <a href="#"><img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" alt="Vue" width=40 height=40 /></a>
   
   #### 🗄️ Databases and cloud hosting
@@ -122,13 +123,12 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width=40 height=40/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width=40 height=40/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width=40 height=40/> </a>
   <a href="#"><img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="VSCode" width=40 height=40 /></a>
   <a href="#"><img src="https://media3.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width=80 height=40 /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width=40 height=40/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width=40 height=40/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width=40 height=40/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width=40 height=40/></a>
 </details> 
 
 #### 💬 Here's some humor for you:
