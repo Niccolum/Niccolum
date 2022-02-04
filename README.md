@@ -74,19 +74,18 @@ hobbies:
   <br/>
 
   <div id="Resume-container">
-    <img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif' align="left" \>
-    <div>
-I am a Python Developer with 5+ years of experience in developing enterprise applications and open-source software.
-
-- <a href="https://www.newinfosec.ru/">New Security Technologies</a> - I helped with the support and creation of realtime traffic audit applications for private and state corporations, 1,5+ years
-
-- <a href="https://www.epam-group.ru/">EPAM</a> - I worked with 3 project last 3+ year, where I was analytic, mentor, speaker, tester, devops, team lead and, of course, python developer.
-
-I also contribute to a lot of community open-source projects and libraries. Some of them - <a href="https://github.com/elastic/apm-agent-python">Elastic APM</a>, <a href="https://github.com/maximdanilchenko/aiohttp-apispec">aiohttp apispec</a>, <a href="https://github.com/tiangolo/fastapi">FastAPI</a>, <a href="https://github.com/encode/starlette">Starlette</a>, <a href="https://github.com/theskumar/python-dotenv">python-dotenv</a>, etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
-
-    <\div>
-  <\div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Niccolum&show_icons=true&count_private=true" alt="Niccolum" align="center"/>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <td id="resume-img" align="top"><img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif'/></td>
+        <td id="resume" align="top">
+          <p>I am a Python Developer with 5+ years of experience in developing enterprise applications and open-source software.</p>
+          <p>- <a href="https://www.newinfosec.ru/">New Security Technologies</a> - I helped with the support and creation of realtime traffic audit applications for private and state corporations, 1,5+ years</p>
+          <p>- <a href="https://www.epam-group.ru/">EPAM</a> - I worked with 3 project last 3+ year, where I was analytic, mentor, speaker, tester, devops, team lead and, of course, python developer.</p>
+          <p>I also contribute to a lot of community open-source projects and libraries. Some of them - <a href="https://github.com/elastic/apm-agent-python">Elastic APM</a>, <a href="https://github.com/maximdanilchenko/aiohttp-apispec">aiohttp apispec</a>, <a href="https://github.com/tiangolo/fastapi">FastAPI</a>, <a href="https://github.com/encode/starlette">Starlette</a>, <a href="https://github.com/theskumar/python-dotenv">python-dotenv</a>, etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.</p>
+      </td>
+    </tr>
+  </table>
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Niccolum&show_icons=true&count_private=true" alt="Niccolum"/></div>
 </details> 
 
 <details>
