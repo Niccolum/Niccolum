@@ -103,6 +103,7 @@ I also contribute to a lot of community open-source projects and libraries. Some
   
   <a href="#"><img src="https://img.shields.io/badge/flask-★★★-lightgrey?logo=Flask&style=for-the-badge&labelColor=000000" alt="flask" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-★★★-lightgrey?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-lightgrey?logo=AIOHTTP&style=for-the-badge&logoColor=285bb5&labelColor=white" alt="aiohttp" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-lightgrey?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-lightgrey?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?logo=NumPy&style=for-the-badge&labelColor=4c78d0" alt="numpy" /></a>
@@ -113,11 +114,11 @@ I also contribute to a lot of community open-source projects and libraries. Some
   
   #### 🗄️ Databases and cloud hosting
   
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width=40 height=40/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width=40 height=40/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google&nbsp;cloud-★☆☆-lightgrey?labelColor=0886c0&logo=Google Cloud&style=for-the-badge&logoColor=white" alt="gcp"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-★★☆-lightgrey?labelColor=white&logo=MongoDB&style=for-the-badge&logoColor=148831" alt="mongodb" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-lightgrey?labelColor=336791&logo=PostgreSQL&style=for-the-badge&logoColor=white" alt="postgresql" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-★★☆-lightgrey?labelColor=d9281a&logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-lightgrey?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
   
   #### 💻 Software and tools
   
