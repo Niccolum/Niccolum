@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Niccolum&style=flat&color=blue" alt="" align="right"/>
 <div id="header" align="center">
-  <div><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/></a></div>
+  <div><a href="https://github.com/PiyushSuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/></a></div>
   <div><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;&center=true&vCenter=true&size=40&color=3F57D2">
   </a></div>
