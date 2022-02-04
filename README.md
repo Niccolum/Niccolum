@@ -96,19 +96,20 @@ I also contribute to a lot of community open-source projects and libraries. Some
   <a href="#"><img src="https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=black&logo=GNU Bash&style=for-the-badge&logoColor=white" alt="bash" /></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-★☆☆-lightgrey?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=e54c21" alt="HTML" /></a>
   <a href="#"><img src="https://img.shields.io/badge/css3-★☆☆-lightgrey?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=0d73b7" alt="CSS" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/javascript-★☆☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="CSS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=3178c6&logo=TypeScript&style=for-the-badge&logoColor=white" alt="JS" /></a>
   
   #### 🧰 Frameworks and libraries
   
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width=40 height=40/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width=40 height=40 /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width=40 height=40/></a>
-  <a href="#"><img src="https://docs.pytest.org/en/latest/_static/pytest_logo_curves.svg" alt="pytest" width=40 height=40 /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width=40 height=40/> </a>
-  <a href="#"><img src="https://media4.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" alt="Vue" width=40 height=40 /></a>
+  <a href="#"><img src="https://img.shields.io/badge/flask-★★★-lightgrey?logo=Flask&style=for-the-badge&labelColor=000000" alt="flask" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-★★★-lightgrey?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-lightgrey?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-lightgrey?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?logo=NumPy&style=for-the-badge&labelColor=4c78d0" alt="numpy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-lightgrey?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
   #### 🗄️ Databases and cloud hosting
   
