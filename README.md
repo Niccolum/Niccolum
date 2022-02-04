@@ -92,8 +92,8 @@ I also contribute to a lot of community open-source projects and libraries. Some
   
   #### 👨‍💻 Programming languages
   
-  <a href="#"><img src="https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/bash-★★☆-lightgrey?labelColor=black&logo=GNU Bash&style=for-the-badge&logoColor=white" alt="bash" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-★★★-edac12?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=black&logo=GNU Bash&style=for-the-badge&logoColor=white" alt="bash" /></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-★☆☆-lightgrey?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=e54c21" alt="HTML" /></a>
   <a href="#"><img src="https://img.shields.io/badge/css3-★☆☆-lightgrey?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=0d73b7" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="CSS" /></a>
@@ -101,14 +101,14 @@ I also contribute to a lot of community open-source projects and libraries. Some
   
   #### 🧰 Frameworks and libraries
   
-  <a href="#"><img src="https://img.shields.io/badge/flask-★★★-lightgrey?logo=Flask&style=for-the-badge&labelColor=000000" alt="flask" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-★★★-lightgrey?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-lightgrey?logo=AIOHTTP&style=for-the-badge&logoColor=285bb5&labelColor=white" alt="aiohttp" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-lightgrey?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-lightgrey?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/flask-★★★-edac12?logo=Flask&style=for-the-badge&labelColor=000000" alt="flask" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-edac12?logo=AIOHTTP&style=for-the-badge&logoColor=285bb5&labelColor=white" alt="aiohttp" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?logo=NumPy&style=for-the-badge&labelColor=4c78d0" alt="numpy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-lightgrey?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
   <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
@@ -116,24 +116,25 @@ I also contribute to a lot of community open-source projects and libraries. Some
   
   <a href="#"><img src="https://img.shields.io/badge/Google&nbsp;cloud-★☆☆-lightgrey?labelColor=0886c0&logo=Google Cloud&style=for-the-badge&logoColor=white" alt="gcp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-★★☆-lightgrey?labelColor=white&logo=MongoDB&style=for-the-badge&logoColor=148831" alt="mongodb" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-lightgrey?labelColor=336791&logo=PostgreSQL&style=for-the-badge&logoColor=white" alt="postgresql" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-edac12?labelColor=336791&logo=PostgreSQL&style=for-the-badge&logoColor=white" alt="postgresql" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Redis-★★☆-lightgrey?labelColor=d9281a&logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-lightgrey?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-edac12?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
   
   #### 💻 Software and tools
   
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width=40 height=40/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width=40 height=40/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width=40 height=40/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width=40 height=40/></a>
-  <a href="#"><img src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="VSCode" width=40 height=40 /></a>
-  <a href="#"><img src="https://media3.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width=80 height=40 /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width=40 height=40/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width=40 height=40/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-★★★-lightgrey?labelColor=white&logo=Linux&style=for-the-badge&logoColor=black" alt="linux"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Debian-★★★-edac12?labelColor=white&logo=Debian&style=for-the-badge&logoColor=a9002c" alt="debian"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=black" alt="jenkins"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Github-★★★-edac12?labelColor=181717&logo=Github&style=for-the-badge&logoColor=white" alt="github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
 </details> 
 
 #### 💬 Here's some humor for you:
