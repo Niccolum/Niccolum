@@ -29,17 +29,17 @@
     </a>
   </div>
   <div id="dnd-badges">
-    <img src="https://img.shields.io/badge/race-human-lightgrey?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/class-developer-lightgrey?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/level-29-lightgrey?style=for-the-badge" />
+    <a href="#"><img src="https://img.shields.io/badge/race-human-lightgrey?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/class-developer-lightgrey?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/level-29-lightgrey?style=for-the-badge" /></a>
   </div>
   <div id="dnd-character-badges">
-    <img src="https://img.shields.io/badge/Strength-8-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Dexterity-9-red?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Constitution-10-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Intelligence-12-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Wisdom-11-yellow?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Charisma-12-blue?style=for-the-badge" />
+    <a href="#"><img src="https://img.shields.io/badge/Strength-8-red?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Dexterity-9-red?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Constitution-10-orange?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Intelligence-12-blue?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Wisdom-11-yellow?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Charisma-12-blue?style=for-the-badge" /></a>
   </div>
   
 </div>
