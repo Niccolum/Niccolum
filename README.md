@@ -74,7 +74,7 @@ hobbies:
   <br/>
 
   <div id="Resume-container">
-    <table cellspacing="0" cellpadding="0">
+    <table>
       <tr>
         <td id="resume-img" align="top"><img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif'/></td>
         <td id="resume" align="top">
