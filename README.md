@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Niccolum&style=flat&color=blue" alt="" align="right"/>
 <div id="header" align="center">
-  <div><a href="#"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" style="pointer-events:none;cursor:default;"/></a></div>
+  <div><a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/></a></div>
   <div><a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;&center=true&vCenter=true&size=40&color=3F57D2">
   </a></div>
@@ -32,6 +32,8 @@
     <img src="https://img.shields.io/badge/race-human-lightgrey?style=for-the-badge" />
     <img src="https://img.shields.io/badge/class-developer-lightgrey?style=for-the-badge" />
     <img src="https://img.shields.io/badge/level-29-lightgrey?style=for-the-badge" />
+  </div>
+  <div id="dnd-character-badges">
     <img src="https://img.shields.io/badge/Strength-8-red?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Dexterity-9-red?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Constitution-10-orange?style=for-the-badge" />
