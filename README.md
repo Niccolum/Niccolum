@@ -140,3 +140,4 @@ I also contribute to a lot of community open-source projects and libraries. Some
 #### 💬 Here's some humor for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+<img src="https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
