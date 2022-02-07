@@ -119,7 +119,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-lightgrey?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="Vue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-lightgrey?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
   
   #### 🗄️ Databases and cloud hosting
   
