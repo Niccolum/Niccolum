@@ -109,12 +109,17 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
   <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-edac12?logo=AIOHTTP&style=for-the-badge&logoColor=285bb5&labelColor=white" alt="aiohttp" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?logo=Gunicorn&style=for-the-badge&logoColor=469845&labelColor=white" alt="Gunicorn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?logo=NumPy&style=for-the-badge&labelColor=4c78d0" alt="numpy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
   <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
+  <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-lightgrey?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
+  <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
+  <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-lightgrey?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="Vue" /></a>
   
   #### 🗄️ Databases and cloud hosting
   
@@ -123,13 +128,14 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-edac12?labelColor=336791&logo=PostgreSQL&style=for-the-badge&logoColor=white" alt="postgresql" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Redis-★★☆-lightgrey?labelColor=d9281a&logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-edac12?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;S3-★★☆-lightgrey?labelColor=black&logo=Amazon S3&style=for-the-badge&logoColor=white" alt="s3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;S3-★★☆-lightgrey?labelColor=8c3123&logo=Amazon S3&style=for-the-badge&logoColor=white" alt="s3"/></a>
   
   #### 💻 Software and tools
   
   <a href="#"><img src="https://img.shields.io/badge/Linux-★★★-lightgrey?labelColor=white&logo=Linux&style=for-the-badge&logoColor=black" alt="linux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Debian-★★★-edac12?labelColor=white&logo=Debian&style=for-the-badge&logoColor=a9002c" alt="debian"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-lightgrey?labelColor=86eb29&logo=Swagger&style=for-the-badge&logoColor=123744" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=black" alt="jenkins"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
@@ -137,7 +143,9 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Github-★★★-edac12?labelColor=181717&logo=Github&style=for-the-badge&logoColor=white" alt="github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★☆-lightgrey?labelColor=181717&logo=GitHub Actions&style=for-the-badge&logoColor=white" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bitbucket-★★★-lightgrey?labelColor=white&logo=Bitbucket&style=for-the-badge&logoColor=0654d9" alt="Bitbucket"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
 </details> 
