@@ -145,7 +145,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bitbucket-★★★-lightgrey?labelColor=white&logo=Bitbucket&style=for-the-badge&logoColor=0654d9" alt="Bitbucket"/></a>
   
-  <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★☆-lightgrey?labelColor=181717&logo=GitHub Actions&style=for-the-badge&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★☆-lightgrey?labelColor=white&logo=GitHub Actions&style=for-the-badge&logoColor=2088FF" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=black" alt="jenkins"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TeamCity-★★☆-lightgrey?labelColor=white&logo=TeamCity&style=for-the-badge&logoColor=black" alt="teamcity"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
@@ -156,7 +156,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Zoom-★★☆-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
   
-  #### 💻 Software and tools
+  #### ℹ️ Software and tools
   
   <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-lightgrey?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
