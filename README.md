@@ -110,6 +110,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
   <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-edac12?logo=AIOHTTP&style=for-the-badge&logoColor=285bb5&labelColor=white" alt="aiohttp" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?logo=Gunicorn&style=for-the-badge&logoColor=469845&labelColor=white" alt="Gunicorn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?logo=NumPy&style=for-the-badge&labelColor=4c78d0" alt="numpy" /></a>
@@ -152,9 +153,10 @@ hobbies:
   
   #### 📞 Communication
   
+  <a href="#"><img src="https://img.shields.io/badge/Zoom-★★☆-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft Teams-★★★-lightgrey?labelColor=white&logo=Microsoft Teams&style=for-the-badge&logoColor=6264A7" alt="microsoftteams"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Zoom-★★☆-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
   
   #### ℹ️ Software and tools
   
