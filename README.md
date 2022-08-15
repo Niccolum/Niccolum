@@ -151,6 +151,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gerrit-★★☆-lightgrey?labelColor=white&logo=Gerrit&style=for-the-badge&logoColor=000081" alt="gerrit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TeamCity-★★☆-lightgrey?labelColor=white&logo=TeamCity&style=for-the-badge&logoColor=black" alt="teamcity"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zoom-★★☆-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
 </details> 
 
 #### 💬 Here's some humor for you:
