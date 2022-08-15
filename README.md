@@ -119,8 +119,8 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-lightgrey?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-lightgrey?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
   #### 🗄️ Databases and cloud hosting
   
@@ -150,18 +150,21 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/TeamCity-★★☆-lightgrey?labelColor=white&logo=TeamCity&style=for-the-badge&logoColor=black" alt="teamcity"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
   
-  #### 💻 Software and tools
+  #### 📞 Communication
   
-  <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-lightgrey?labelColor=86eb29&logo=Swagger&style=for-the-badge&logoColor=123744" alt="Swagger"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Zoom-★★☆-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
+  
+  #### 💻 Software and tools
+  
   <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-lightgrey?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-lightgrey?labelColor=86eb29&logo=Swagger&style=for-the-badge&logoColor=123744" alt="Swagger"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
 </details> 
 
 #### 💬 Here's some humor for you:
