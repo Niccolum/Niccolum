@@ -52,7 +52,7 @@ job: Python developer
 education:
   - Moscow Aviation Institute, Bachelor, Electronic technology and design  
   - RUSSIAN STATE AGRARIAN UNIVERSITY - MOSCOW AGRICULTURAL ACADEMY NAMED AFTER K. A. TIMIRYAZEV, Bachelor, Enterprise economics and management 
-company: EPAM
+company: QIWI
 languages:
   - Russian (native)
   - English (B1)
