@@ -113,7 +113,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?logo=Gunicorn&style=for-the-badge&logoColor=469845&labelColor=white" alt="Gunicorn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?logo=NumPy&style=for-the-badge&labelColor=4c78d0" alt="numpy" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
   <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-lightgrey?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
@@ -149,6 +149,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Bitbucket-★★★-lightgrey?labelColor=white&logo=Bitbucket&style=for-the-badge&logoColor=0654d9" alt="Bitbucket"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gerrit-★★☆-lightgrey?labelColor=white&logo=Gerrit&style=for-the-badge&logoColor=000081" alt="gerrit"/></a>
 </details> 
 
 #### 💬 Here's some humor for you:
