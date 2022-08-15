@@ -135,6 +135,7 @@ hobbies:
   
   <a href="#"><img src="https://img.shields.io/badge/Linux-★★★-lightgrey?labelColor=white&logo=Linux&style=for-the-badge&logoColor=black" alt="linux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Debian-★★★-edac12?labelColor=white&logo=Debian&style=for-the-badge&logoColor=a9002c" alt="debian"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ubuntu-★★★-edac12?labelColor=white&logo=Ubuntu&style=for-the-badge&logoColor=E95420" alt="ubuntu"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MacOS-★★★-lightgrey?labelColor=white&logo=MacOS&style=for-the-badge&logoColor=black" alt="macos"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-lightgrey?labelColor=86eb29&logo=Swagger&style=for-the-badge&logoColor=123744" alt="Swagger"/></a>
