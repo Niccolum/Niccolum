@@ -31,7 +31,7 @@
   <div id="dnd-badges">
     <a href="#"><img src="https://img.shields.io/badge/race-human-lightgrey?style=for-the-badge" /></a>
     <a href="#"><img src="https://img.shields.io/badge/class-developer-lightgrey?style=for-the-badge" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/level-29-lightgrey?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/level-30-lightgrey?style=for-the-badge" /></a>
   </div>
   <div id="dnd-character-badges">
     <a href="#"><img src="https://img.shields.io/badge/Strength-8-red?style=for-the-badge" /></a>
