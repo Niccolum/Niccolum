@@ -139,7 +139,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-★★★-edac12?labelColor=white&logo=Ubuntu&style=for-the-badge&logoColor=E95420" alt="ubuntu"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MacOS-★★★-edac12?labelColor=white&logo=MacOS&style=for-the-badge&logoColor=black" alt="macos"/></a>
   
-  #### ⏳ Git and CI/CD
+  #### ⏳ Git and DevOps tools
   
   <a href="#"><img src="https://img.shields.io/badge/Gerrit-★★☆-lightgrey?labelColor=white&logo=Gerrit&style=for-the-badge&logoColor=000081" alt="gerrit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="git"/></a>
@@ -150,6 +150,8 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★★-lightgrey?labelColor=white&logo=GitHub Actions&style=for-the-badge&logoColor=2088FF" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=black" alt="jenkins"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TeamCity-★★☆-lightgrey?labelColor=white&logo=TeamCity&style=for-the-badge&logoColor=black" alt="teamcity"/></a>
+
+  <a href="#"><img src="https://img.shields.io/badge/Consul★☆☆-lightgrey?labelColor=white&logo=consul&style=for-the-badge&logoColor=F24C53" alt="consul"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
   
   #### 📞 Communication
