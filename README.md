@@ -131,7 +131,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Redis-★★★-lightgrey?labelColor=d9281a&logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-edac12?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;S3-★★☆-lightgrey?labelColor=e15141&logo=Amazon S3&style=for-the-badge&logoColor=white" alt="s3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;Redshift-★☆☆-lightgrey?labelColor=white&logo=amazonredshift&style=for-the-badge&logoColor=black" alt="amazonredshift"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;Redshift-★☆☆-lightgrey?labelColor=white&logo=amazonredshift&style=for-the-badge&logoColor=eb653c" alt="amazonredshift"/></a>
   
   #### 💻 OS
   <a href="#"><img src="https://img.shields.io/badge/Linux-★★★-lightgrey?labelColor=white&logo=Linux&style=for-the-badge&logoColor=black" alt="linux"/></a>
