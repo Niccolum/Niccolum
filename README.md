@@ -177,7 +177,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Lens-★★☆-lightgrey?labelColor=white&logo=lens&style=for-the-badge&logoColor=3D90CE" alt="lens"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Let's&nbsp;encrypt-★☆☆-lightgrey?labelColor=white&logo=letsencrypt&style=for-the-badge&logoColor=003A70" alt="letsencrypt"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Nginx-★☆☆-lightgrey?labelColor=white&logo=nginx&style=for-the-badge&logoColor=009639" alt="nginx"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Traefik★☆☆-lightgrey?labelColor=white&logo=traefikproxy&style=for-the-badge&logoColor=24A1C1" alt="traefikproxy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Traefik-★☆☆-lightgrey?labelColor=white&logo=traefikproxy&style=for-the-badge&logoColor=24A1C1" alt="traefikproxy"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sentry-★☆☆-lightgrey?labelColor=white&logo=sentry&style=for-the-badge&logoColor=362D59" alt="sentry"/></a>
   
   #### 📞 Communication
