@@ -127,11 +127,12 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?labelColor=white&logo=numpy&style=for-the-badge&logoColor=013243" alt="numpy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
+  <a href="#"><img src="https://img.shields.io/badge/Selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-edac12?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-edac12?labelColor=white&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ruff-★★★-edac12?labelColor=white&logo=ruff&style=for-the-badge&logoColor=FCC21B" alt=ruff" /></a>
   
   #### 🗄️ Databases and cloud hosting
   
