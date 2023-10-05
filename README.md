@@ -97,8 +97,8 @@ hobbies:
   
   #### 👨‍💻 Programming languages
   
-  <a href="#"><img src="https://img.shields.io/badge/python-★★★-edac12?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=black&logo=GNU Bash&style=for-the-badge&logoColor=white" alt="bash" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=white&logo=GNU Bash&style=for-the-badge&logoColor=black" alt="bash" /></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-★☆☆-lightgrey?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=e54c21" alt="HTML" /></a>
   <a href="#"><img src="https://img.shields.io/badge/css3-★☆☆-lightgrey?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=0d73b7" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="CSS" /></a>
@@ -112,23 +112,23 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?labelColor=white&logo=FastAPI&style=for-the-badge&logoColor=009688" alt="fastapi" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
-  <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?labelColor=469845&logo=Gunicorn&style=for-the-badge&logoColor=white" alt="Gunicorn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?labelColor=0b0153&logo=pandas&style=for-the-badge&logoColor=0b0153" alt="pandas" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?labelColor=4c78d0&logo=NumPy&style=for-the-badge&logoColor=4c78d0" alt="numpy" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?labelColor=white&logo=Gunicorn&style=for-the-badge&logoColor=499848" alt="Gunicorn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?labelColor=white&logo=pandas&style=for-the-badge&logoColor=150458" alt="pandas" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?labelColor=white&logo=numpy&style=for-the-badge&logoColor=013243" alt="numpy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
   <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-edac12?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
-  <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-edac12?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-edac12?labelColor=white&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
   
   #### 🗄️ Databases and cloud hosting
   
-  <a href="#"><img src="https://img.shields.io/badge/Google&nbsp;cloud-★☆☆-lightgrey?labelColor=0886c0&logo=Google Cloud&style=for-the-badge&logoColor=white" alt="gcp"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google&nbsp;cloud-★☆☆-lightgrey?labelColor=white&logo=Google Cloud&style=for-the-badge&logoColor=0886c0" alt="gcp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-★★☆-lightgrey?labelColor=white&logo=MongoDB&style=for-the-badge&logoColor=148831" alt="mongodb" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-edac12?labelColor=336791&logo=PostgreSQL&style=for-the-badge&logoColor=white" alt="postgresql" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redis-★★★-lightgrey?labelColor=d9281a&logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-edac12?labelColor=white&logo=PostgreSQL&style=for-the-badge&logoColor=336791" alt="postgresql" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-★★★-lightgrey?labelColor=white&logo=Redis&style=for-the-badge&logoColor=d9281a" alt="redis"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-edac12?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;S3-★★☆-lightgrey?labelColor=569A31&logo=Amazon S3&style=for-the-badge&logoColor=white" alt="s3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;Redshift-★☆☆-lightgrey?labelColor=white&logo=amazonredshift&style=for-the-badge&logoColor=eb653c" alt="amazonredshift"/></a>
