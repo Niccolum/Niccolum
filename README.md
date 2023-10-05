@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/-lastsal-white?style=for-the-badge&logo=maildotru&logoColor=005FF9&link=mailto:lastsal@mail.ru" alt="MailRu Badge"/>
     </a>
     <a href="https://github.com/Niccolum/">
-      <img src="https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white" alt="Github Badge"/>
+      <img src="https://img.shields.io/badge/-Github-white?logo=Github&style=for-the-badge&logoColor=181717" alt="Github Badge"/>
     </a>
     <a href="https://hub.docker.com/u/niccolum">
       <img src="https://img.shields.io/badge/-Docker-white?logo=Docker&style=for-the-badge&logoColor=1372b3" alt="Docker Badge"/>
