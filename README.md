@@ -106,7 +106,7 @@ hobbies:
   
   #### 🧰 Frameworks and libraries
   
-  <a href="#"><img src="https://img.shields.io/badge/flask-★★★-edac12?logo=Flask&style=for-the-badge&labelColor=000000" alt="flask" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/flask-★★★-edac12?logo=Flask&style=for-the-badge&labelColor=black&logoColor=white" alt="flask" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
   <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-edac12?logo=AIOHTTP&style=for-the-badge&logoColor=285bb5&labelColor=white" alt="aiohttp" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
