@@ -166,6 +166,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Grafana-★★☆-lightgrey?labelColor=white&logo=grafana&style=for-the-badge&logoColor=F46800" alt="grafana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lens-★★☆-lightgrey?labelColor=white&logo=lens&style=for-the-badge&logoColor=3D90CE" alt="lens"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Let's&nbsp;encrypt-★☆☆-lightgrey?labelColor=white&logo=letsencrypt&style=for-the-badge&logoColor=003A70" alt="letsencrypt"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Nginx-★☆☆-lightgrey?labelColor=white&logo=nginx&style=for-the-badge&logoColor=009639" alt="nginx"/></a>
   
   #### 📞 Communication
   
@@ -182,6 +183,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Miro-★★★-lightgrey?labelColor=white&logo=miro&style=for-the-badge&logoColor=050038" alt="miro" /></a>
   
