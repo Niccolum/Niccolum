@@ -134,6 +134,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;Redshift-★☆☆-lightgrey?labelColor=white&logo=amazonredshift&style=for-the-badge&logoColor=eb653c" alt="amazonredshift"/></a>
   
   #### 💻 OS
+  
   <a href="#"><img src="https://img.shields.io/badge/Linux-★★★-lightgrey?labelColor=white&logo=Linux&style=for-the-badge&logoColor=black" alt="linux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Debian-★★★-edac12?labelColor=white&logo=Debian&style=for-the-badge&logoColor=a9002c" alt="debian"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-★★★-edac12?labelColor=white&logo=Ubuntu&style=for-the-badge&logoColor=E95420" alt="ubuntu"/></a>
@@ -153,6 +154,7 @@ hobbies:
 
   <a href="#"><img src="https://img.shields.io/badge/Consul-★☆☆-lightgrey?labelColor=white&logo=consul&style=for-the-badge&logoColor=F24C53" alt="consul"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Grafana-★★☆-lightgrey?labelColor=white&logo=grafana&style=for-the-badge&logoColor=F46800" alt="grafana"/></a>
   
   #### 📞 Communication
   
