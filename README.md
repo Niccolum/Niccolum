@@ -122,7 +122,6 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-edac12?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
   
   #### 🗄️ Databases and cloud hosting
   
@@ -167,6 +166,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=86eb29&logo=Swagger&style=for-the-badge&logoColor=123744" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
   
   <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
