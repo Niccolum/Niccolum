@@ -203,6 +203,7 @@ hobbies:
   
   <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sublime&nbsp;Text-★★★-edac12?labelColor=white&logo=sublimetext&style=for-the-badge&logoColor=FF9800" alt="sublimetext"/></a>
 </details> 
 
 #### 💬 Here's some humor for you:
