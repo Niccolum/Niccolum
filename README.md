@@ -150,7 +150,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Debian-★★★-edac12?labelColor=white&logo=Debian&style=for-the-badge&logoColor=a9002c" alt="debian"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-★★★-edac12?labelColor=white&logo=Ubuntu&style=for-the-badge&logoColor=E95420" alt="ubuntu"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MacOS-★★★-edac12?labelColor=white&logo=MacOS&style=for-the-badge&logoColor=black" alt="macos"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/RaspberryPI-★★★-lightgrey?labelColor=white&logo=raspberrypi&style=for-the-badge&logoColor=#A22846" alt="raspberrypi"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/RaspberryPI-★★★-lightgrey?labelColor=white&logo=raspberrypi&style=for-the-badge&logoColor=A22846" alt="raspberrypi"/></a>
   
   #### ⏳ Git and DevOps tools
   
