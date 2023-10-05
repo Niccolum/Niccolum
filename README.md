@@ -144,7 +144,7 @@ hobbies:
   
   <a href="#"><img src="https://img.shields.io/badge/Gerrit-★★☆-lightgrey?labelColor=white&logo=Gerrit&style=for-the-badge&logoColor=000081" alt="gerrit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=F05032&logo=Git&style=for-the-badge&logoColor=white" alt="git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Github-★★★-edac12?labelColor=181717&logo=Github&style=for-the-badge&logoColor=white" alt="github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Github-★★★-edac12?labelColor=white&logo=Github&style=for-the-badge&logoColor=181717" alt="github"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bitbucket-★★★-lightgrey?labelColor=white&logo=Bitbucket&style=for-the-badge&logoColor=0654d9" alt="Bitbucket"/></a>
   
