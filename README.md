@@ -169,6 +169,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★☆☆-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
   
   <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
