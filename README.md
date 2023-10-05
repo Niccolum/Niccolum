@@ -179,11 +179,11 @@ hobbies:
   
   <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-edac12?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
-  
+
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Miro-★★★-lightgrey?labelColor=white&logo=miro&style=for-the-badge&logoColor=050038" alt="miro" /></a>
   
