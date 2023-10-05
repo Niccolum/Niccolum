@@ -142,7 +142,7 @@ hobbies:
   
   #### 💻 OS
   
-  <a href="#"><img src="https://img.shields.io/badge/Windows-★★★-edac12?labelColor=white&logo=microsoft&style=for-the-badge&logoColor=5E5E5E" alt="microsoft"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Windows-★★★-edac12?labelColor=white&logo=microsoft&style=for-the-badge&logoColor=0178d6" alt="microsoft"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-★★★-lightgrey?labelColor=white&logo=Linux&style=for-the-badge&logoColor=black" alt="linux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Debian-★★★-edac12?labelColor=white&logo=Debian&style=for-the-badge&logoColor=a9002c" alt="debian"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-★★★-edac12?labelColor=white&logo=Ubuntu&style=for-the-badge&logoColor=E95420" alt="ubuntu"/></a>
