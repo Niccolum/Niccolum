@@ -110,7 +110,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?labelColor=white&logo=Django&style=for-the-badge&logoColor=092E20" alt="django" /></a>
   <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-edac12?labelColor=white&logo=AIOHTTP&style=for-the-badge&logoColor=285bb5" alt="aiohttp" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?labelColor=white&logo=FastAPI&style=for-the-badge&logoColor=009688" alt="fastapi" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=white&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
   <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?labelColor=white&logo=Gunicorn&style=for-the-badge&logoColor=499848" alt="Gunicorn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?labelColor=white&logo=pandas&style=for-the-badge&logoColor=150458" alt="pandas" /></a>
