@@ -133,7 +133,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Thrift-★★☆-lightgrey?labelColor=white&logo=apache&style=for-the-badge&logoColor=D22128" alt="thrift" /></a>
   
   <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?labelColor=white&logo=Gunicorn&style=for-the-badge&logoColor=499848" alt="Gunicorn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="sqlalchemy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=white&logoSvg=https://user-images.githubusercontent.com/128223/153606192-c117618d-cabf-49c4-9204-d7f1afe24289.svg&style=for-the-badge&logoColor=3776AB" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-edac12?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
   
   <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?labelColor=white&logo=pandas&style=for-the-badge&logoColor=150458" alt="pandas" /></a>
