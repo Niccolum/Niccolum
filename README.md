@@ -106,15 +106,15 @@ hobbies:
   
   #### 🧰 Frameworks and libraries
   
-  <a href="#"><img src="https://img.shields.io/badge/flask-★★★-edac12?logo=Flask&style=for-the-badge&labelColor=white&logoColor=black" alt="flask" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?logo=Django&style=for-the-badge&labelColor=092E20" alt="django" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-edac12?logo=AIOHTTP&style=for-the-badge&logoColor=285bb5&labelColor=white" alt="aiohttp" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?logo=FastAPI&style=for-the-badge&logoColor=009688&labelColor=white" alt="fastapi" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/flask-★★★-edac12?labelColor=white&logo=Flask&style=for-the-badge&logoColor=black" alt="flask" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?labelColor=white&logo=Django&style=for-the-badge&logoColor=092E20" alt="django" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/aiohttp-★★★-edac12?labelColor=white&logo=AIOHTTP&style=for-the-badge&logoColor=285bb5" alt="aiohttp" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-★★★-edac12?labelColor=white&logo=FastAPI&style=for-the-badge&logoColor=009688" alt="fastapi" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
-  <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?logo=Gunicorn&style=for-the-badge&logoColor=469845&labelColor=white" alt="Gunicorn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?logo=pandas&style=for-the-badge&labelColor=0b0153" alt="pandas" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?logo=NumPy&style=for-the-badge&labelColor=4c78d0" alt="numpy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?labelColor=469845&logo=Gunicorn&style=for-the-badge&logoColor=white" alt="Gunicorn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?labelColor=0b0153&logo=pandas&style=for-the-badge&logoColor=0b0153" alt="pandas" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?labelColor=4c78d0&logo=NumPy&style=for-the-badge&logoColor=4c78d0" alt="numpy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
   <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
