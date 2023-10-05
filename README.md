@@ -134,11 +134,12 @@ hobbies:
   
   #### 🗄️ Databases and cloud hosting
   
-  <a href="#"><img src="https://img.shields.io/badge/Google&nbsp;cloud-★☆☆-lightgrey?labelColor=white&logo=Google Cloud&style=for-the-badge&logoColor=0886c0" alt="gcp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-★★☆-lightgrey?labelColor=white&logo=MongoDB&style=for-the-badge&logoColor=148831" alt="mongodb" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-edac12?labelColor=white&logo=PostgreSQL&style=for-the-badge&logoColor=336791" alt="postgresql" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Redis-★★★-lightgrey?labelColor=white&logo=Redis&style=for-the-badge&logoColor=d9281a" alt="redis"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-edac12?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
+
+  <a href="#"><img src="https://img.shields.io/badge/Google&nbsp;cloud-★☆☆-lightgrey?labelColor=white&logo=Google Cloud&style=for-the-badge&logoColor=0886c0" alt="gcp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;S3-★★☆-lightgrey?labelColor=569A31&logo=Amazon S3&style=for-the-badge&logoColor=white" alt="s3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;Redshift-★☆☆-lightgrey?labelColor=white&logo=amazonredshift&style=for-the-badge&logoColor=eb653c" alt="amazonredshift"/></a>
   
@@ -187,6 +188,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-★★☆-lightgrey?labelColor=white&logo=rabbitmq&style=for-the-badge&logoColor=FF6600" alt="rabbitmq" /></a>
 
   <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
