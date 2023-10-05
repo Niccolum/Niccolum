@@ -106,6 +106,10 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/css3-★☆☆-lightgrey?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=0d73b7" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=3178c6&logo=TypeScript&style=for-the-badge&logoColor=white" alt="JS" /></a>
+
+  #### Technologies
+
+  <a href="#"><img src="https://img.shields.io/badge/JWT-★★★-edac12?labelColor=white&logo=jsonwebtokens&style=for-the-badge&logoColor=black" alt="jsonwebtokens" /></a>
   
   #### 🧰 Frameworks and libraries
   
