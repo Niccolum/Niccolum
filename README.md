@@ -117,10 +117,10 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
   <a href="#"><img src="https://img.shields.io/badge/selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
-  <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-lightgrey?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
+  <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-edac12?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
-  <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-lightgrey?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-edac12?labelColor=black&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=F7DF1E&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
   #### 🗄️ Databases and cloud hosting
@@ -128,7 +128,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Google&nbsp;cloud-★☆☆-lightgrey?labelColor=0886c0&logo=Google Cloud&style=for-the-badge&logoColor=white" alt="gcp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-★★☆-lightgrey?labelColor=white&logo=MongoDB&style=for-the-badge&logoColor=148831" alt="mongodb" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-edac12?labelColor=336791&logo=PostgreSQL&style=for-the-badge&logoColor=white" alt="postgresql" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redis-★★☆-lightgrey?labelColor=d9281a&logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-★★★-lightgrey?labelColor=d9281a&logo=Redis&style=for-the-badge&logoColor=white" alt="redis"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-edac12?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;S3-★★☆-lightgrey?labelColor=e15141&logo=Amazon S3&style=for-the-badge&logoColor=white" alt="s3"/></a>
   
@@ -136,7 +136,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Linux-★★★-lightgrey?labelColor=white&logo=Linux&style=for-the-badge&logoColor=black" alt="linux"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Debian-★★★-edac12?labelColor=white&logo=Debian&style=for-the-badge&logoColor=a9002c" alt="debian"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu-★★★-edac12?labelColor=white&logo=Ubuntu&style=for-the-badge&logoColor=E95420" alt="ubuntu"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MacOS-★★★-lightgrey?labelColor=white&logo=MacOS&style=for-the-badge&logoColor=black" alt="macos"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MacOS-★★★-edac12?labelColor=white&logo=MacOS&style=for-the-badge&logoColor=black" alt="macos"/></a>
   
   #### ⏳ Git and CI/CD
   
@@ -146,23 +146,23 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bitbucket-★★★-lightgrey?labelColor=white&logo=Bitbucket&style=for-the-badge&logoColor=0654d9" alt="Bitbucket"/></a>
   
-  <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★☆-lightgrey?labelColor=white&logo=GitHub Actions&style=for-the-badge&logoColor=2088FF" alt="GitHub Actions"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★★-lightgrey?labelColor=white&logo=GitHub Actions&style=for-the-badge&logoColor=2088FF" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=black" alt="jenkins"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TeamCity-★★☆-lightgrey?labelColor=white&logo=TeamCity&style=for-the-badge&logoColor=black" alt="teamcity"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
   
   #### 📞 Communication
   
-  <a href="#"><img src="https://img.shields.io/badge/Zoom-★★☆-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Zoom-★★★-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Microsoft Teams-★★★-lightgrey?labelColor=white&logo=Microsoft Teams&style=for-the-badge&logoColor=6264A7" alt="microsoftteams"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
   
   #### ℹ️ Software and tools
   
-  <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-lightgrey?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-edac12?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-lightgrey?labelColor=86eb29&logo=Swagger&style=for-the-badge&logoColor=123744" alt="Swagger"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=86eb29&logo=Swagger&style=for-the-badge&logoColor=123744" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
