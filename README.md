@@ -115,6 +115,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/OWASP-★★★-lightgrey?labelColor=white&logo=owasp&style=for-the-badge&logoColor=black" alt="owasp" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SemVer-★★★-edac12?labelColor=white&logo=semver&style=for-the-badge&logoColor=3F4551" alt="semver" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Read&nbsp;the&nbsp;Docs-★★★-edac12?labelColor=white&logo=readthedocs&style=for-the-badge&logoColor=8CA1AF" alt="readthedocs" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TOML-★★★-lightgrey?labelColor=white&logo=toml&style=for-the-badge&logoColor=9C4121" alt="toml" /></a>
   
   #### 🧰 Frameworks and libraries
   
