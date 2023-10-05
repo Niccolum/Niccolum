@@ -102,8 +102,6 @@ hobbies:
   
   <a href="#"><img src="https://img.shields.io/badge/python-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=white&logo=GNU Bash&style=for-the-badge&logoColor=black" alt="bash" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/html5-★☆☆-lightgrey?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=e54c21" alt="HTML" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/css3-★☆☆-lightgrey?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=0d73b7" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=3178c6&logo=TypeScript&style=for-the-badge&logoColor=white" alt="JS" /></a>
 
@@ -116,6 +114,9 @@ hobbies:
   
   <a href="#"><img src="https://img.shields.io/badge/Markdown-★★★-edac12?labelColor=white&logo=markdown&style=for-the-badge&logoColor=black" alt="markdown" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Sphinx-★★★-lightgrey?labelColor=white&logo=sphinx&style=for-the-badge&logoColor=black" alt="sphinx" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/html5-★☆☆-lightgrey?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=e54c21" alt="HTML" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/css3-★☆☆-lightgrey?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=0d73b7" alt="CSS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/UML-★★★-lightgrey?labelColor=white&logo=uml&style=for-the-badge&logoColor=FABD14" alt="uml" /></a>
   
   <a href="#"><img src="https://img.shields.io/badge/TOML-★★★-lightgrey?labelColor=white&logo=toml&style=for-the-badge&logoColor=9C4121" alt="toml" /></a>
@@ -131,14 +132,15 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=white&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   
   <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?labelColor=white&logo=Gunicorn&style=for-the-badge&logoColor=499848" alt="Gunicorn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="sqlalchemy" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-edac12?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
+  
   <a href="#"><img src="https://img.shields.io/badge/Pandas-★★★-edac12?labelColor=white&logo=pandas&style=for-the-badge&logoColor=150458" alt="pandas" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-★★☆-lightgrey?labelColor=white&logo=numpy&style=for-the-badge&logoColor=013243" alt="numpy" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="sqlalchemy" /></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/pytest-★★★-edac12?labelColor=white&logo=Pytest&style=for-the-badge&logoColor=blue" alt="pytest" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Selenium-★★★-lightgrey?labelColor=white&logo=Selenium&style=for-the-badge&logoColor=00b500" alt="selenium"/> </a>
-  <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-edac12?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/Cookiecutter-★★★-lightgrey?labelColor=white&logo=Cookiecutter&style=for-the-badge&logoColor=d5ac00" alt="Cookiecutter"/> </a>
-  <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/pre&#8722;commit-★★★-edac12?labelColor=white&logo=pre-commit&style=for-the-badge&logoColor=fab040" alt="pre-commit" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Ruff-★★★-edac12?labelColor=white&logo=ruff&style=for-the-badge&logoColor=FCC21B" alt="ruff" /></a>
   
