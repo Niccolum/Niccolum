@@ -165,6 +165,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Consul-★☆☆-lightgrey?labelColor=white&logo=consul&style=for-the-badge&logoColor=F24C53" alt="consul"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Grafana-★★☆-lightgrey?labelColor=white&logo=grafana&style=for-the-badge&logoColor=F46800" alt="grafana"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prometheus-★★☆-lightgrey?labelColor=white&logo=prometheus&style=for-the-badge&logoColor=E6522C" alt="prometheus"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Lens-★★☆-lightgrey?labelColor=white&logo=lens&style=for-the-badge&logoColor=3D90CE" alt="lens"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Let's&nbsp;encrypt-★☆☆-lightgrey?labelColor=white&logo=letsencrypt&style=for-the-badge&logoColor=003A70" alt="letsencrypt"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Nginx-★☆☆-lightgrey?labelColor=white&logo=nginx&style=for-the-badge&logoColor=009639" alt="nginx"/></a>
