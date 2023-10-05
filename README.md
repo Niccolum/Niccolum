@@ -111,6 +111,7 @@ hobbies:
 
   <a href="#"><img src="https://img.shields.io/badge/JWT-★★★-edac12?labelColor=white&logo=jsonwebtokens&style=for-the-badge&logoColor=black" alt="jsonwebtokens" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Markdown-★★★-edac12?labelColor=white&logo=markdown&style=for-the-badge&logoColor=black" alt="markdown" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OWASP-★★★-lightgrey?labelColor=white&logo=owasp&style=for-the-badge&logoColor=black" alt="owasp" /></a>
   
   #### 🧰 Frameworks and libraries
   
