@@ -174,6 +174,8 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Microsoft Teams-★★★-lightgrey?labelColor=white&logo=Microsoft Teams&style=for-the-badge&logoColor=6264A7" alt="microsoftteams"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Miro-★★★-lightgrey?labelColor=white&logo=miro&style=for-the-badge&logoColor=050038" alt="miro" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Notion-★★★-edac12?labelColor=white&logo=notion&style=for-the-badge&logoColor=black" alt="notion" /></a>
   
   #### ℹ️ Software and tools
   
@@ -185,7 +187,6 @@ hobbies:
 
   <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Miro-★★★-lightgrey?labelColor=white&logo=miro&style=for-the-badge&logoColor=050038" alt="miro" /></a>
   
   <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
