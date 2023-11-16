@@ -122,7 +122,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/TOML-★★★-lightgrey?labelColor=white&logo=toml&style=for-the-badge&logoColor=9C4121" alt="toml" /></a>
   <a href="#"><img src="https://img.shields.io/badge/YAML-★★★-edac12?labelColor=white&logo=yaml&style=for-the-badge&logoColor=CB171E" alt="yaml" /></a>
   
-  #### 🧰 Frameworks and libraries
+  #### 🧰 Frameworks
   
   <a href="#"><img src="https://img.shields.io/badge/flask-★★★-edac12?labelColor=white&logo=Flask&style=for-the-badge&logoColor=black" alt="flask" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-★★★-edac12?labelColor=white&logo=Django&style=for-the-badge&logoColor=092E20" alt="django" /></a>
@@ -131,7 +131,9 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Sanic-★★★-lightgrey?labelColor=white&logo=sanic&style=for-the-badge&logoColor=FF0D68" alt="sanic" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue-★☆☆-lightgrey?labelColor=white&logo=Vue.js&style=for-the-badge&logoColor=3fb984" alt="Vue" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Thrift-★★☆-lightgrey?labelColor=white&logo=apache&style=for-the-badge&logoColor=D22128" alt="thrift" /></a>
-  
+
+  #### 🔮 Libraries
+
   <a href="#"><img src="https://img.shields.io/badge/Gunicorn-★★★-edac12?labelColor=white&logo=Gunicorn&style=for-the-badge&logoColor=499848" alt="Gunicorn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-★★★-edac12?labelColor=white&logo=sqlalchemy&style=for-the-badge&logoColor=D71F00" alt="sqlalchemy" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Celery-★★★-edac12?labelColor=white&logo=Celery&style=for-the-badge&logoColor=6b993f" alt="Celery"/> </a>
@@ -165,17 +167,22 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/MacOS-★★★-edac12?labelColor=white&logo=MacOS&style=for-the-badge&logoColor=black" alt="macos"/></a>
   <a href="#"><img src="https://img.shields.io/badge/RaspberryPI-★★★-lightgrey?labelColor=white&logo=raspberrypi&style=for-the-badge&logoColor=A22846" alt="raspberrypi"/></a>
   
-  #### ⏳ Git and DevOps tools
+  #### 💾 Git
   
   <a href="#"><img src="https://img.shields.io/badge/Gerrit-★★☆-lightgrey?labelColor=white&logo=Gerrit&style=for-the-badge&logoColor=000081" alt="gerrit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-★★★-lightgrey?labelColor=white&logo=Git&style=for-the-badge&logoColor=F05032" alt="git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Github-★★★-edac12?labelColor=white&logo=Github&style=for-the-badge&logoColor=181717" alt="github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitLab-★★★-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bitbucket-★★★-lightgrey?labelColor=white&logo=Bitbucket&style=for-the-badge&logoColor=0654d9" alt="Bitbucket"/></a>
+
+  #### ⏳ CI/CD
   
   <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★★-lightgrey?labelColor=white&logo=GitHub Actions&style=for-the-badge&logoColor=2088FF" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=black" alt="jenkins"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TeamCity-★★☆-lightgrey?labelColor=white&logo=TeamCity&style=for-the-badge&logoColor=black" alt="teamcity"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
+
+  #### 👾 DevOps tools
 
   <a href="#"><img src="https://img.shields.io/badge/Consul-★☆☆-lightgrey?labelColor=white&logo=consul&style=for-the-badge&logoColor=F24C53" alt="consul"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes-★☆☆-lightgrey?labelColor=white&logo=Kubernetes&style=for-the-badge&logoColor=2f6ee6" alt="kubernetes"/></a>
