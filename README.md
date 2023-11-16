@@ -194,7 +194,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Traefik-★☆☆-lightgrey?labelColor=white&logo=traefikproxy&style=for-the-badge&logoColor=24A1C1" alt="traefikproxy"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sentry-★☆☆-lightgrey?labelColor=white&logo=sentry&style=for-the-badge&logoColor=362D59" alt="sentry"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenSearch★☆☆-lightgrey?labelColor=white&logo=opensearch&style=for-the-badge&logoColor=005EB8" alt="opensearch"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenSearch-★☆☆-lightgrey?labelColor=white&logo=opensearch&style=for-the-badge&logoColor=005EB8" alt="opensearch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   
   #### 📞 Communication
