@@ -193,6 +193,8 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Nginx-★☆☆-lightgrey?labelColor=white&logo=nginx&style=for-the-badge&logoColor=009639" alt="nginx"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Traefik-★☆☆-lightgrey?labelColor=white&logo=traefikproxy&style=for-the-badge&logoColor=24A1C1" alt="traefikproxy"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sentry-★☆☆-lightgrey?labelColor=white&logo=sentry&style=for-the-badge&logoColor=362D59" alt="sentry"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   
   #### 📞 Communication
   
@@ -208,8 +210,6 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-edac12?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NPM-★★☆-lightgrey?labelColor=white&logo=npm&style=for-the-badge&logoColor=CB3837" alt="npm"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Elasticsearch-★☆☆-lightgrey?labelColor=white&logo=Elasticsearch&style=for-the-badge&logoColor=black" alt="elasticsearch"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kibana-★☆☆-lightgrey?labelColor=white&logo=Kibana&style=for-the-badge&logoColor=005571" alt="kibana"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
   <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-★★☆-lightgrey?labelColor=white&logo=rabbitmq&style=for-the-badge&logoColor=FF6600" alt="rabbitmq" /></a>
 
