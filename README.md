@@ -84,7 +84,7 @@ hobbies:
           <p>I am a Python Developer with 5+ years of experience in developing enterprise applications and open-source software.</p>
           <p>- <a href="https://www.newinfosec.ru/">New Security Technologies</a> - I helped with the support and creation of realtime traffic audit applications for private and state corporations, 1,5+ years</p>
           <p>- <a href="https://www.epam-group.ru/">EPAM</a> - I worked with 3 project last 3+ year, where I was analytic, mentor, speaker, tester, devops, team lead and, of course, python developer.</p>
-          <p>- <a href="https://qiwi.com/">QIWI</a> - I developed some services for internal use, including services with personal data with strong security by default. I am mentor, analytic, team lead, tester, DevOps, Python and sometimes frontend developer</p>
+          <p>- <a href="https://qiwi.com/">QIWI</a> - I developed some services for internal use, including services with personal data with strong security by default. I am a mentor, an analytic, a team lead, a tester, a DevOps engineer and, of course, a python developer</p>
           <p>I also contribute to a lot of community open-source projects and libraries. Some of them - <a href="https://github.com/elastic/apm-agent-python">Elastic APM</a>, <a href="https://github.com/maximdanilchenko/aiohttp-apispec">aiohttp apispec</a>, <a href="https://github.com/tiangolo/fastapi">FastAPI</a>, <a href="https://github.com/encode/starlette">Starlette</a>, <a href="https://github.com/theskumar/python-dotenv">python-dotenv</a>, etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.</p>
       </td>
     </tr>
