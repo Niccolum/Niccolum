@@ -102,7 +102,7 @@ hobbies:
 
   <a href="#"><img src="https://img.shields.io/badge/python-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-★★★-lightgrey?labelColor=white&logo=gnubash&style=for-the-badge&logoColor=black" alt="bash" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=3178c6&logo=TypeScript&style=for-the-badge&logoColor=white" alt="TS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=white&logo=TypeScript&style=for-the-badge&logoColor=007ACC" alt="TS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-★☆☆-lightgrey?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=e54c21" alt="HTML" /></a>
 
   #### 🗿 LLMs
@@ -123,7 +123,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Sphinx-★★★-lightgrey?labelColor=white&logo=sphinx&style=for-the-badge&logoColor=black" alt="sphinx" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/UML-★★★-edac12?labelColor=white&logo=uml&style=for-the-badge&logoColor=FABD14" alt="uml" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=white&logo=Swagger&style=for-the-badge&logoColor=Clojure" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-★★★-edac12?labelColor=white&logo=postman&style=for-the-badge&logoColor=FF6C37" alt="postman" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Obsidian-★★★-edac12?labelColor=white&logo=obsidian&style=for-the-badge&logoColor=483699" alt="obsidian" /></a>
@@ -168,7 +168,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/duckdb-★☆☆-lightgrey?labelColor=white&logo=duckdb&style=for-the-badge&logoColor=FFF000" alt="duckdb" /></a>
 
   <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-★☆☆-lightgrey?labelColor=white&logo=google-cloud&style=for-the-badge&logoColor=0886c0" alt="gcp"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon%20S3-★★★-lightgrey?labelColor=569A31&logo=amazons3&style=for-the-badge&logoColor=white" alt="s3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon%20S3-★★★-lightgrey?llabelColor=white&logo=amazons3&style=for-the-badge&logoColor=FF9900" alt="s3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;Redshift-★☆☆-lightgrey?labelColor=white&logo=amazonredshift&style=for-the-badge&logoColor=eb653c" alt="amazonredshift"/></a>
 
   #### 💻 OS
