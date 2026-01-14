@@ -99,7 +99,7 @@ hobbies:
   ![Niccolum stats](https://github-readme-stats.vercel.app/api/top-langs?username=Niccolum&layout=compact)
 
   #### 👨‍💻 Programming languages
-
+  
   <a href="#"><img src="https://img.shields.io/badge/python-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-★★★-lightgrey?labelColor=white&logo=gnubash&style=for-the-badge&logoColor=black" alt="bash" /></a>
   <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=white&logo=TypeScript&style=for-the-badge&logoColor=007ACC" alt="TS" /></a>
