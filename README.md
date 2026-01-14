@@ -177,7 +177,7 @@ hobbies:
 
   #### ⏳ CI/CD
 
-  <a href="#"><img src="https://img.shields.io/badge/Github&nbsp;Actions-★★★-lightgrey?labelColor=white&logo=GitHub Actions&style=for-the-badge&logoColor=2088FF" alt="GitHub Actions"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/github%20actions-★★★-lightgrey?labelColor=white&logo=githubactions&style=for-the-badge&logoColor=2671E5" alt="GitHub Actions"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jenkins-★★☆-lightgrey?labelColor=white&logo=Jenkins&style=for-the-badge&logoColor=black" alt="jenkins"/></a>
   <a href="#"><img src="https://img.shields.io/badge/TeamCity-★★☆-lightgrey?labelColor=white&logo=TeamCity&style=for-the-badge&logoColor=black" alt="teamcity"/></a>
   <a href="#"><img src="https://img.shields.io/badge/GitLab-★★☆-lightgrey?labelColor=white&logo=GitLab&style=for-the-badge&logoColor=white" alt="gitlab"/></a>
