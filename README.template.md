@@ -15,11 +15,11 @@
     <a href="https://t.me/Niccolum">
       <img src="https://img.shields.io/badge/-telegram-white?logo=Telegram&style=for-the-badge&logoColor=blue" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:lastsal93@gmail.com">
-      <img src="https://img.shields.io/badge/-lastsal93-white?style=for-the-badge&logo=Gmail&logoColor=c14438&link=mailto:lastsal93@gmail.com" alt="GMail Badge"/>
+    <a href="mailto:[Email8]">
+      <img src="https://img.shields.io/badge/-lastsal93-white?style=for-the-badge&logo=Gmail&logoColor=c14438&link=mailto:[Email9]" alt="GMail Badge"/>
     </a>
-    <a href="mailto:lastsal@mail.ru">
-      <img src="https://img.shields.io/badge/-lastsal-white?style=for-the-badge&logo=maildotru&logoColor=005FF9&link=mailto:lastsal@mail.ru" alt="MailRu Badge"/>
+    <a href="mailto:[Email10]">
+      <img src="https://img.shields.io/badge/-lastsal-white?style=for-the-badge&logo=maildotru&logoColor=005FF9&link=mailto:[Email11]" alt="MailRu Badge"/>
     </a>
     <a href="https://github.com/Niccolum/">
       <img src="https://img.shields.io/badge/-Github-white?logo=Github&style=for-the-badge&logoColor=181717" alt="Github Badge"/>
@@ -34,7 +34,7 @@
   <div id="dnd-badges">
     <a href="#"><img src="https://img.shields.io/badge/race-human-lightgrey?style=for-the-badge" /></a>
     <a href="#"><img src="https://img.shields.io/badge/class-developer-lightgrey?style=for-the-badge" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/level-32-lightgrey?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/level-{LEVEL}-lightgrey?style=for-the-badge" /></a>
   </div>
   <div id="dnd-character-badges">
     <a href="#"><img src="https://img.shields.io/badge/Strength-8-red?style=for-the-badge" /></a>
@@ -81,7 +81,7 @@ hobbies:
       <tr>
         <td id="resume-img" align="top"><img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif'/></td>
         <td id="resume" align="top">
-          <p>I am a Python Developer with 8+ years of experience in developing enterprise applications and open-source software.</p>
+          <p>I am a Python Developer with {EXPERIENCE_YEARS}+ years of experience in developing enterprise applications and open-source software.</p>
           <p>- <a href="https://www.newinfosec.ru/">New Security Technologies</a> - I helped with the support and creation of realtime traffic audit applications for private and state corporations, 1,5+ years</p>
           <p>- <a href="https://www.epam-group.ru/">EPAM</a> - I worked with 3 project last 3+ year, where I was analytic, mentor, speaker, tester, devops, team lead and, of course, python developer.</p>
           <p>- <a href="https://qiwi.com/">QIWI</a> - I developed some services for internal use, including services with personal data with strong security by default. I am a mentor, an analytic, a team lead, a tester, a DevOps engineer and, of course, a python developer</p>
@@ -229,4 +229,4 @@ hobbies:
 <img src="https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
 
 ---
-*Last updated: 2026-01-14*
+*Last updated: {CURRENT_DATE}*
