@@ -200,7 +200,6 @@ hobbies:
   #### 📞 Communication
 
   <a href="#"><img src="https://img.shields.io/badge/Zoom-★★★-lightgrey?labelColor=white&logo=Zoom&style=for-the-badge&logoColor=2D8CFF" alt="zoom"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft Teams-★★★-lightgrey?labelColor=white&logo=Microsoft Teams&style=for-the-badge&logoColor=6264A7" alt="microsoftteams"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Confluence-★★★-edac12?labelColor=white&logo=Confluence&style=for-the-badge&logoColor=0654d9" alt="confluence"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jira-★★★-lightgrey?labelColor=white&logo=Jira&style=for-the-badge&logoColor=0654d9" alt="jira"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Miro-★★★-lightgrey?labelColor=white&logo=miro&style=for-the-badge&logoColor=050038" alt="miro" /></a>
@@ -218,7 +217,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-★★★-edac12?labelColor=white&logo=postman&style=for-the-badge&logoColor=FF6C37" alt="postman" /></a>
 
-  <a href="#"><img src="https://img.shields.io/badge/VSCode-★★★-edac12?labelColor=white&logo=Visual Studio Code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-★★★-edac12?labelColor=white&logo=visual-studio-code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Sublime&nbsp;Text-★★★-edac12?labelColor=white&logo=sublimetext&style=for-the-badge&logoColor=FF9800" alt="sublimetext"/></a>
 </details>
