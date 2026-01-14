@@ -89,14 +89,14 @@ hobbies:
       </td>
     </tr>
   </table>
-  <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Niccolum&show_icons=true&count_private=true" alt="Niccolum"/></div>
+  <div align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=Niccolum&show_icons=true&count_private=true" alt="Niccolum"/></div>
 </details>
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
 
-  ![Niccolum stats](https://github-readme-stats.vercel.app/api/top-langs?username=Niccolum&layout=compact)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Niccolum&theme=default)
 
   #### 👨‍💻 Programming languages
 
