@@ -101,7 +101,7 @@ hobbies:
   #### 👨‍💻 Programming languages
 
   <a href="#"><img src="https://img.shields.io/badge/python-★★★-edac12?labelColor=white&logo=Python&style=for-the-badge&logoColor=3776AB" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/bash-★★★-lightgrey?labelColor=white&logo=GNU Bash&style=for-the-badge&logoColor=black" alt="bash" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash-★★★-lightgrey?labelColor=white&logo=gnubash&style=for-the-badge&logoColor=black" alt="bash" /></a>
   <a href="#"><img src="https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black" alt="CSS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=3178c6&logo=TypeScript&style=for-the-badge&logoColor=white" alt="JS" /></a>
 
