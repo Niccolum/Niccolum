@@ -15,11 +15,11 @@
     <a href="https://t.me/Niccolum">
       <img src="https://img.shields.io/badge/-telegram-white?logo=Telegram&style=for-the-badge&logoColor=blue" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:[Email8]">
-      <img src="https://img.shields.io/badge/-lastsal93-white?style=for-the-badge&logo=Gmail&logoColor=c14438&link=mailto:[Email9]" alt="GMail Badge"/>
+    <a href="mailto:lastsal93@gmail.com">
+      <img src="https://img.shields.io/badge/-lastsal93-white?style=for-the-badge&logo=Gmail&logoColor=c14438&link=mailto:lastsal93@gmail.com" alt="GMail Badge"/>
     </a>
-    <a href="mailto:[Email10]">
-      <img src="https://img.shields.io/badge/-lastsal-white?style=for-the-badge&logo=maildotru&logoColor=005FF9&link=mailto:[Email11]" alt="MailRu Badge"/>
+    <a href="mailto:lastsal@mail.ru">
+      <img src="https://img.shields.io/badge/-lastsal-white?style=for-the-badge&logo=maildotru&logoColor=005FF9&link=mailto:lastsal@mail.ru" alt="MailRu Badge"/>
     </a>
     <a href="https://github.com/Niccolum/">
       <img src="https://img.shields.io/badge/-Github-white?logo=Github&style=for-the-badge&logoColor=181717" alt="Github Badge"/>
