@@ -96,7 +96,7 @@ hobbies:
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Niccolum&theme=default)
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Niccolum&theme=default)
 
   #### 👨‍💻 Programming languages
   
