@@ -117,6 +117,9 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Sphinx-★★★-lightgrey?labelColor=white&logo=sphinx&style=for-the-badge&logoColor=black" alt="sphinx" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Jinja-★★★-lightgrey?labelColor=white&logo=Jinja&style=for-the-badge&logoColor=black" alt="Jinja"/> </a>
   <a href="#"><img src="https://img.shields.io/badge/UML-★★★-edac12?labelColor=white&logo=uml&style=for-the-badge&logoColor=FABD14" alt="uml" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-★★★-edac12?labelColor=white&logo=postman&style=for-the-badge&logoColor=FF6C37" alt="postman" /></a>
 
   #### 📝 Formats
 
@@ -207,17 +210,18 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Miro-★★★-lightgrey?labelColor=white&logo=miro&style=for-the-badge&logoColor=050038" alt="miro" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-★★★-lightgrey?labelColor=white&logo=notion&style=for-the-badge&logoColor=black" alt="notion" /></a>
 
-  #### ℹ️ Software and tools
+  #### 👜 Package tools
 
   <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-edac12?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NPM-★★☆-lightgrey?labelColor=white&logo=npm&style=for-the-badge&logoColor=CB3837" alt="npm"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
+
+  #### 🚀 Other services
+
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
   <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-★★☆-lightgrey?labelColor=white&logo=rabbitmq&style=for-the-badge&logoColor=FF6600" alt="rabbitmq" /></a>
 
-  <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-★★★-edac12?labelColor=white&logo=postman&style=for-the-badge&logoColor=FF6C37" alt="postman" /></a>
+  #### 👾 IDE
 
   <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-★★★-edac12?labelColor=white&logo=visual-studio-code&style=for-the-badge&logoColor=23acf2" alt="VSCode"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PyCharm-★★★-lightgrey?labelColor=white&logo=PyCharm&style=for-the-badge&logoColor=black" alt="PyCharm"/></a>
