@@ -168,7 +168,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/duckdb-★☆☆-lightgrey?labelColor=white&logo=duckdb&style=for-the-badge&logoColor=FFF000" alt="duckdb" /></a>
 
   <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-★☆☆-lightgrey?labelColor=white&logo=google-cloud&style=for-the-badge&logoColor=0886c0" alt="gcp"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon%20S3-★★★-lightgrey?llabelColor=white&logo=amazons3&style=for-the-badge&logoColor=FF9900" alt="s3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon%20S3-★★★-lightgrey?labelColor=white&logo=amazons3&style=for-the-badge&logoColor=FF9900" alt="s3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon&nbsp;Redshift-★☆☆-lightgrey?labelColor=white&logo=amazonredshift&style=for-the-badge&logoColor=eb653c" alt="amazonredshift"/></a>
 
   #### 💻 OS
