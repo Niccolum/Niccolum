@@ -105,6 +105,12 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/typescript-★☆☆-lightgrey?labelColor=3178c6&logo=TypeScript&style=for-the-badge&logoColor=white" alt="TS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-★☆☆-lightgrey?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=e54c21" alt="HTML" /></a>
 
+  #### 🗿 LLMs
+
+  <a href="#"><img src="https://img.shields.io/badge/chatGPT-★★★-edac12?labelColor=white&logo=openai&style=for-the-badge&logoColor=74aa9c" alt="chatGPT" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Claude-★★★-edac12?labelColor=white&logo=claude&style=for-the-badge&logoColor=D97757" alt="Claude" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ollama-★★☆-lightgrey?labelColor=white&logo=ollama&style=for-the-badge&logoColor=000000" alt="ollama" /></a>
+
   #### 🎓 Technologies
 
   <a href="#"><img src="https://img.shields.io/badge/JWT-★★★-edac12?labelColor=white&logo=jsonwebtokens&style=for-the-badge&logoColor=black" alt="jsonwebtokens" /></a>
@@ -120,6 +126,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Swagger-★★★-edac12?labelColor=85EA2D&logo=Swagger&style=for-the-badge&logoColor=011f48" alt="Swagger"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Diagrams.net-★★★-lightgrey?labelColor=white&logo=diagramsdotnet&style=for-the-badge&logoColor=F08705" alt="diagramsdotnet" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-★★★-edac12?labelColor=white&logo=postman&style=for-the-badge&logoColor=FF6C37" alt="postman" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Obsidian-★★★-edac12?labelColor=white&logo=obsidian&style=for-the-badge&logoColor=483699" alt="obsidian" /></a>
 
   #### 📝 Formats
 
@@ -158,6 +165,7 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-★★★-edac12?labelColor=white&logo=PostgreSQL&style=for-the-badge&logoColor=336791" alt="postgresql" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Redis-★★★-lightgrey?labelColor=white&logo=Redis&style=for-the-badge&logoColor=d9281a" alt="redis"/></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-★★★-edac12?labelColor=white&logo=SQLite&style=for-the-badge&logoColor=0681cd" alt="sqlite" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/duckdb-★☆☆-lightgrey?labelColor=white&logo=duckdb&style=for-the-badge&logoColor=FFF000" alt="duckdb" /></a>
 
   <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-★☆☆-lightgrey?labelColor=white&logo=google-cloud&style=for-the-badge&logoColor=0886c0" alt="gcp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon%20S3-★★★-lightgrey?labelColor=569A31&logo=amazons3&style=for-the-badge&logoColor=white" alt="s3"/></a>
