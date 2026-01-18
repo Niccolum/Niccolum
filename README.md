@@ -55,7 +55,7 @@ job: Python developer
 education:
   - Moscow Aviation Institute, Bachelor, Electronic technology and design
   - RUSSIAN STATE AGRARIAN UNIVERSITY - MOSCOW AGRICULTURAL ACADEMY NAMED AFTER K. A. TIMIRYAZEV, Bachelor, Enterprise economics and management
-company: QIWI
+company: T-Bank
 languages:
   - Russian (native)
   - English (B1)
@@ -81,11 +81,12 @@ hobbies:
       <tr>
         <td id="resume-img" align="top"><img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif'/></td>
         <td id="resume" align="top">
-          <p>I am a Python Developer with 8+ years of experience in developing enterprise applications and open-source software.</p>
-          <p>- <a href="https://www.newinfosec.ru/">New Security Technologies</a> - I helped with the support and creation of realtime traffic audit applications for private and state corporations, 1,5+ years</p>
-          <p>- <a href="https://www.epam-group.ru/">EPAM</a> - I worked with 3 project last 3+ year, where I was analytic, mentor, speaker, tester, devops, team lead and, of course, python developer.</p>
-          <p>- <a href="https://qiwi.com/">QIWI</a> - I developed some services for internal use, including services with personal data with strong security by default. I am a mentor, an analytic, a team lead, a tester, a DevOps engineer and, of course, a python developer</p>
-          <p>I also contribute to a lot of community open-source projects and libraries. Some of them - <a href="https://github.com/elastic/apm-agent-python">Elastic APM</a>, <a href="https://github.com/maximdanilchenko/aiohttp-apispec">aiohttp apispec</a>, <a href="https://github.com/tiangolo/fastapi">FastAPI</a>, <a href="https://github.com/encode/starlette">Starlette</a>, <a href="https://github.com/theskumar/python-dotenv">python-dotenv</a>, etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.</p>
+          <p>Hey there! I'm a Python developer with 8+ years of turning coffee into code and solving problems that make services faster, more reliable, and actually fun to work with.</p>
+          <p>Currently at <a href="https://www.tbank.ru/">T-Bank</a> (February 2024 - Present, 1 year 11 months) as Senior Developer & Team Lead (since October 2024). Leading the DevEx initiative - basically making developers' lives easier and the codebase healthier. Spearheaded the migration of our monorepo to Pants build system (wrote the RFC, got buy-in, executed it), championed modularization through another RFC, and built intelligent chatbots that handle fraud monitoring cases and optimize operator workload. When our product manager went on vacation, stepped up to keep A/B tests running and analytics flowing. Stack: FastAPI, Flask, Apache Kafka, PostgreSQL, Docker, Redis, GitLab, Pants. The best part? Seeing measurable cost savings and watching the team's velocity improve.</p>
+          <p>Before that, spent nearly 2 years at <a href="https://qiwi.com/">QIWI</a> (May 2022 - February 2024) as Senior Product Developer, where I got my hands dirty with high-security applications handling sensitive personal data. Wore multiple hats - mentor, analyst, team lead, tester, DevOps engineer, and yes, Python developer. Built internal services that process millions of transactions while keeping everything locked down tight. Stack: Python, PostgreSQL, Samba, Oracle SQL, Docker, Kubernetes, RabbitMQ, Redis, FastAPI.</p>
+          <p>At <a href="https://www.epam-group.ru/">EPAM</a> (May 2019 - May 2022, 3+ years), I deployed microservices on GCP, owned production deployments across multiple organizations, and mentored colleagues (still doing that on <a href="https://getmentor.dev/mentor/nikolay-vidov-327">GetMentor</a>!). Built a PEG parser (pyparser) from scratch for internal needs, designed service architectures, and wrote docs that people actually read. Tech stack: Python, Django, Docker, PostgreSQL, Redis, MongoDB, GCP, Sanic, AIOHTTP, Pandas.</p>
+          <p>Started my backend journey at <a href="https://www.newinfosec.ru/">New Security Technologies</a> (December 2017 - May 2019), creating real-time traffic audit applications for enterprises and government. Learned to love Debian, virtual machines, uwsgi, Django, and got surprisingly good at frontend with jQuery. Also dove deep into data analytics with matplotlib, pandas, and numpy.</p>
+          <p>When I'm not coding at work, I'm contributing to open-source projects - <a href="https://github.com/elastic/apm-agent-python">Elastic APM</a>, <a href="https://github.com/maximdanilchenko/aiohttp-apispec">aiohttp-apispec</a>, <a href="https://github.com/tiangolo/fastapi">FastAPI</a>, <a href="https://github.com/encode/starlette">Starlette</a>, <a href="https://github.com/theskumar/python-dotenv">python-dotenv</a>, and more. I genuinely believe that the real magic of open-source isn't just the code - it's the amazing community of people who build it together.</p>
       </td>
     </tr>
   </table>
@@ -242,4 +243,4 @@ hobbies:
 <img src="https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
 
 ---
-*Last updated: 2026-01-14*
+*Last updated: 2026-01-18*
