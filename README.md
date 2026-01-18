@@ -51,26 +51,36 @@
 name: Nikolai Vidov
 located_in: Zheleznodorozhny, Russia
 from: Moscow, Russia
-job: Python developer
-education:
-  - Moscow Aviation Institute, Bachelor, Electronic technology and design
-  - RUSSIAN STATE AGRARIAN UNIVERSITY - MOSCOW AGRICULTURAL ACADEMY NAMED AFTER K. A. TIMIRYAZEV, Bachelor, Enterprise economics and management
+current_position: Senior Developer & Team Lead at T-Bank
+job: Python Developer & Tech Lead
 company: T-Bank
+education:
+  - Moscow Aviation Institute, Bachelor, Electronic Technology and Design (2015-2020)
+  - Russian State Agrarian University, Bachelor, Enterprise Economics and Management (first degree, honors)
 languages:
   - Russian (native)
-  - English (B1)
+  - English (professional working proficiency)
 technical_interests:
   - Web-development
   - Architecture
   - Testing
   - Mentoring
+  - DevEx
 hobbies:
-  - D&D5e
-  - My public https://t.me/yapyb
+  - D&D5e enthusiast
+  - Python blog https://t.me/yapyb
+  - Mentoring developers on GetMentor
+  - Open-source contributions
   - Pet projects
-  - Serials
-  - YouTube :)
 ```
+
+## 🎯 Quick Highlights
+- 🚀 Leading DevEx initiative at T-Bank - migrated monorepo to Pants build system
+- 🏗️ Authored and executed technical RFCs for infrastructure improvements
+- 🤖 Built fraud-monitoring chatbots handling thousands of daily interactions
+- 💰 Delivered measurable cost savings through operator workload optimization
+- 👨‍🏫 Active mentor with 8+ years of experience
+- 🌟 Open-source contributor (FastAPI, Elastic APM, Starlette, python-dotenv)
 
 <details>
   <summary><b>✏️&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -224,9 +234,11 @@ hobbies:
   <a href="#"><img src="https://img.shields.io/badge/Poetry-★★★-edac12?labelColor=white&logo=Poetry&style=for-the-badge&logoColor=60A5FA" alt="poetry"/></a>
   <a href="#"><img src="https://img.shields.io/badge/NPM-★★☆-lightgrey?labelColor=white&logo=npm&style=for-the-badge&logoColor=CB3837" alt="npm"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-★★★-edac12?labelColor=white&logo=Docker&style=for-the-badge&logoColor=029ded" alt="docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pants-★★★-edac12?labelColor=white&logo=python&style=for-the-badge&logoColor=3776AB" alt="pants"/></a>
 
   #### 🚀 Other services
 
+  <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Kafka-★★★-edac12?labelColor=white&logo=apachekafka&style=for-the-badge&logoColor=231F20" alt="apachekafka" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Apache&nbsp;Spark-★☆☆-lightgrey?labelColor=white&logo=apachespark&style=for-the-badge&logoColor=E25A1C" alt="apachespark" /></a>
   <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-★★☆-lightgrey?labelColor=white&logo=rabbitmq&style=for-the-badge&logoColor=FF6600" alt="rabbitmq" /></a>
 
