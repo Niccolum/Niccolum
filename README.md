@@ -34,7 +34,7 @@
   <div id="dnd-badges">
     <a href="#"><img src="https://img.shields.io/badge/race-human-lightgrey?style=for-the-badge" /></a>
     <a href="#"><img src="https://img.shields.io/badge/class-developer-lightgrey?style=for-the-badge" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/level-32-lightgrey?style=for-the-badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/level-33-lightgrey?style=for-the-badge" /></a>
   </div>
   <div id="dnd-character-badges">
     <a href="#"><img src="https://img.shields.io/badge/Strength-8-red?style=for-the-badge" /></a>
@@ -255,4 +255,4 @@ hobbies:
 <img src="https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
 
 ---
-*Last updated: 2026-03-15*
+*Last updated: 2026-03-22*
