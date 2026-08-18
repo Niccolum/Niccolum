@@ -11,6 +11,10 @@ BIRTH_DATE = datetime(1993, 3, 22)
 EXPERIENCE_START = datetime(2017, 12, 1)
 CURRENT_WORK_START = datetime(2024, 2, 1)
 
+FRAUD_MONTHLY_SAVINGS = "4.1M RUB"
+SUPPORT_MONTHLY_SAVINGS = "6.5M RUB"
+TECHLEAD_TOTAL_IMPACT = "30M RUB"
+
 
 def _calculate_years_from(start_date: datetime) -> int:
     today = datetime.now()
@@ -65,6 +69,9 @@ def main() -> int:
         LEVEL=age,
         CURRENT_DATE=current_date,
         CURRENT_WORK_DURATION=current_work_duration,
+        FRAUD_MONTHLY_SAVINGS=FRAUD_MONTHLY_SAVINGS,
+        SUPPORT_MONTHLY_SAVINGS=SUPPORT_MONTHLY_SAVINGS,
+        TECHLEAD_TOTAL_IMPACT=TECHLEAD_TOTAL_IMPACT,
     )
 
     output_file.write_text(output_content)

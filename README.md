@@ -51,7 +51,7 @@
 name: Nikolai Vidov
 located_in: Zheleznodorozhny, Russia
 from: Moscow, Russia
-current_position: Senior Developer & Team Lead at T-Bank
+current_position: Lead Backend Developer & Team Lead at T-Bank
 job: Python Developer & Tech Lead
 company: T-Bank
 education:
@@ -75,10 +75,11 @@ hobbies:
 ```
 
 ## 🎯 Quick Highlights
-- 🚀 Leading DevEx initiative at T-Bank - migrated monorepo to Pants build system
-- 🏗️ Authored and executed technical RFCs for infrastructure improvements
-- 🤖 Built fraud-monitoring chatbots handling thousands of daily interactions
-- 💰 Delivered measurable cost savings through operator workload optimization
+- 🤖 Automated fraud handling end-to-end (chat + voice), saving over 4.1M RUB/month
+- 💬 Improved bot retention (skipped_repeat, "Stay on bot"), saving over 6.5M RUB/month (+68% automation)
+- 🧭 Tech Lead for 5+ product teams, with launched features exceeding 30M RUB in combined impact
+- 🚀 Migrated monorepo from Bazel to Pants - cut dependency build time from 300s to 20s (15x faster)
+- 👥 Led team growth: IDPs for 3+ engineers, buddy for 2+ onboardings, merged two teams, launched a new product line from scratch
 - 👨‍🏫 Active mentor with 8+ years of experience
 - 🌟 Open-source contributor (FastAPI, Elastic APM, Starlette, python-dotenv)
 
@@ -92,7 +93,11 @@ hobbies:
         <td id="resume-img" align="top"><img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif'/></td>
         <td id="resume" align="top">
           <p>Hey there! I'm a Python developer with 8+ years of turning coffee into code and solving problems that make services faster, more reliable, and actually fun to work with.</p>
-          <p>Currently at <a href="https://www.tbank.ru/">T-Bank</a> (February 2024 - Present, 2 years 6 months) as Senior Developer & Team Lead (since October 2024). Leading the DevEx initiative - basically making developers' lives easier and the codebase healthier. Spearheaded the migration of our monorepo to Pants build system (wrote the RFC, got buy-in, executed it), championed modularization through another RFC, and built intelligent chatbots that handle fraud monitoring cases and optimize operator workload. When our product manager went on vacation, stepped up to keep A/B tests running and analytics flowing. Stack: FastAPI, Flask, Apache Kafka, PostgreSQL, Docker, Redis, GitLab, Pants. The best part? Seeing measurable cost savings and watching the team's velocity improve.</p>
+          <p>Currently at <a href="https://www.tbank.ru/">T-Bank</a> (February 2024 - Present, 2 years 6 months) as Lead Backend Developer & Team Lead (since October 2024).</p>
+          <p><b>Product & business impact:</b> Shipped end-to-end fraud automation (chat + voice) from concept to 100% traffic rollout, saving over 4.1M RUB/month. Designed bot-retention mechanics (skipped_repeat, "Stay on bot" feature) that pushed automation up 68% on the target segment and saved over 6.5M RUB/month. Acted as Tech Lead and consultant for 5+ product teams (Foreigners, High-income, AML, SME), with shipped features exceeding 30M RUB in combined economic impact. Ran 10+ A/B tests, killing low-ROI hypotheses early to save the team's dev capacity.</p>
+          <p><b>Engineering culture & DevEx:</b> Led the migration of our monorepo from Bazel to Pants (2 RFCs, new architecture, 4+ services migrated), cutting dependency build time from 300s to 20s - a 15x speedup. Moved all product-feature monitoring onto the team's standard (finedog) and rebuilt the data-labeling SQL pipelines, making them 10x faster with zero labeling failures. Set up team rituals (1:1s, retros, groomings), split dev/product syncs, and automated process-compliance checks in Jira.</p>
+          <p><b>Team leadership:</b> Built individual development plans for 3+ engineers, ran performance calibration, and was a buddy for 2+ new hires. Merged two teams (Sales and Segments) without disruption, then handed the team and process off cleanly to a peer lead. Built a new product line from scratch - founded the "Agents in SME" team, acting as Tech Lead and architect for its end-to-end process, business logic, ML stack, and tooling.</p>
+          <p>Stack: FastAPI, Flask, Apache Kafka, PostgreSQL, Docker, Redis, GitLab, Grafana, Pants, agentic systems, LLMs.</p>
           <p>Before that, spent nearly 2 years at <a href="https://qiwi.com/">QIWI</a> (May 2022 - February 2024) as Senior Product Developer, where I got my hands dirty with high-security applications handling sensitive personal data. Wore multiple hats - mentor, analyst, team lead, tester, DevOps engineer, and yes, Python developer. Built internal services that process millions of transactions while keeping everything locked down tight. Stack: Python, PostgreSQL, Samba, Oracle SQL, Docker, Kubernetes, RabbitMQ, Redis, FastAPI.</p>
           <p>At <a href="https://www.epam-group.ru/">EPAM</a> (May 2019 - May 2022, 3+ years), I deployed microservices on GCP, owned production deployments across multiple organizations, and mentored colleagues (still doing that on <a href="https://getmentor.dev/mentor/nikolay-vidov-327">GetMentor</a>!). Built a PEG parser (pyparser) from scratch for internal needs, designed service architectures, and wrote docs that people actually read. Tech stack: Python, Django, Docker, PostgreSQL, Redis, MongoDB, GCP, Sanic, AIOHTTP, Pandas.</p>
           <p>Started my backend journey at <a href="https://www.newinfosec.ru/">New Security Technologies</a> (December 2017 - May 2019), creating real-time traffic audit applications for enterprises and government. Learned to love Debian, virtual machines, uwsgi, Django, and got surprisingly good at frontend with jQuery. Also dove deep into data analytics with matplotlib, pandas, and numpy.</p>
@@ -255,4 +260,4 @@ hobbies:
 <img src="https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
 
 ---
-*Last updated: 2026-08-16*
+*Last updated: 2026-08-18*
