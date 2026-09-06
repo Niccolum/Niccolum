@@ -93,7 +93,7 @@ hobbies:
         <td id="resume-img" align="top"><img src='https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/Monkey_Kid_Coding.gif'/></td>
         <td id="resume" align="top">
           <p>Hey there! I'm a Python developer with 8+ years of turning coffee into code and solving problems that make services faster, more reliable, and actually fun to work with.</p>
-          <p>Currently at <a href="https://www.tbank.ru/">T-Bank</a> (February 2024 - Present, 2 years 6 months) as Lead Backend Developer & Team Lead (since October 2024).</p>
+          <p>Currently at <a href="https://www.tbank.ru/">T-Bank</a> (February 2024 - Present, 2 years 7 months) as Lead Backend Developer & Team Lead (since October 2024).</p>
           <p><b>Product & business impact:</b> Shipped end-to-end fraud automation (chat + voice) from concept to 100% traffic rollout, saving over 4.1M RUB/month. Designed bot-retention mechanics (skipped_repeat, "Stay on bot" feature) that pushed automation up 68% on the target segment and saved over 6.5M RUB/month. Acted as Tech Lead and consultant for 5+ product teams (Foreigners, High-income, AML, SME), with shipped features exceeding 30M RUB in combined economic impact. Ran 10+ A/B tests, killing low-ROI hypotheses early to save the team's dev capacity.</p>
           <p><b>Engineering culture & DevEx:</b> Led the migration of our monorepo from Bazel to Pants (2 RFCs, new architecture, 4+ services migrated), cutting dependency build time from 300s to 20s - a 15x speedup. Moved all product-feature monitoring onto the team's standard (finedog) and rebuilt the data-labeling SQL pipelines, making them 10x faster with zero labeling failures. Set up team rituals (1:1s, retros, groomings), split dev/product syncs, and automated process-compliance checks in Jira.</p>
           <p><b>Team leadership:</b> Built individual development plans for 3+ engineers, ran performance calibration, and was a buddy for 2+ new hires. Merged two teams (Sales and Segments) without disruption, then handed the team and process off cleanly to a peer lead. Built a new product line from scratch - founded the "Agents in SME" team, acting as Tech Lead and architect for its end-to-end process, business logic, ML stack, and tooling.</p>
@@ -260,4 +260,4 @@ hobbies:
 <img src="https://raw.githubusercontent.com/Niccolum/Niccolum/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128">
 
 ---
-*Last updated: 2026-08-30*
+*Last updated: 2026-09-06*
